@@ -22,10 +22,10 @@
     "url": "https://bepanthen.co.id",
     "icon": "https://favicons.githubusercontent.com/bepanthen.co.id",
     "slug": "benpanthen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 792,
@@ -34,6 +34,7 @@
     "timeMonth": 792,
     "timeYear": 792,
     "dailyMinutesDown": {
+      "2021-08-13": 1,
       "2021-07-22": 62
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://zambuk.co.id",
     "icon": "https://favicons.githubusercontent.com/zambuk.co.id",
     "slug": "zambuk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.74%",
@@ -54,6 +55,7 @@
     "timeMonth": 1010,
     "timeYear": 1010,
     "dailyMinutesDown": {
+      "2021-08-13": 0,
       "2021-08-05": 47,
       "2021-07-22": 62
     }
@@ -171,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-13": 60,
+      "2021-08-13": 232,
       "2021-08-12": 1440,
       "2021-08-11": 1440,
       "2021-08-10": 1440,
