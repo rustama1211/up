@@ -84,9 +84,9 @@
     "url": "https://saridon.co.id",
     "icon": "https://favicons.githubusercontent.com/saridon.co.id",
     "slug": "saridon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -96,6 +96,7 @@
     "timeMonth": 722,
     "timeYear": 700,
     "dailyMinutesDown": {
+      "2021-09-12": 0,
       "2021-07-22": 62
     }
   },
@@ -172,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-12": 64,
+      "2021-09-12": 870,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
