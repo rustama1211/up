@@ -4,29 +4,31 @@
     "url": "https://berocca.co.id",
     "icon": "https://favicons.githubusercontent.com/berocca.co.id",
     "slug": "berocca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 798,
     "timeDay": 782,
     "timeWeek": 936,
     "timeMonth": 838,
     "timeYear": 798,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 2
+    }
   },
   {
     "name": "Benpanthen",
     "url": "https://bepanthen.co.id",
     "icon": "https://favicons.githubusercontent.com/bepanthen.co.id",
     "slug": "benpanthen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 789,
     "timeDay": 811,
@@ -34,6 +36,7 @@
     "timeMonth": 821,
     "timeYear": 789,
     "dailyMinutesDown": {
+      "2021-10-13": 2,
       "2021-09-18": 19,
       "2021-07-22": 62
     }
@@ -43,10 +46,10 @@
     "url": "https://zambuk.co.id",
     "icon": "https://favicons.githubusercontent.com/zambuk.co.id",
     "slug": "zambuk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1053,
@@ -55,6 +58,7 @@
     "timeMonth": 1143,
     "timeYear": 1053,
     "dailyMinutesDown": {
+      "2021-10-13": 1,
       "2021-09-09": 20,
       "2021-08-05": 47,
       "2021-07-22": 62
@@ -173,7 +177,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 66,
+      "2021-10-13": 787,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
       "2021-10-10": 1440,
