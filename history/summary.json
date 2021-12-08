@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 794,
-    "timeDay": 877,
-    "timeWeek": 832,
-    "timeMonth": 783,
-    "timeYear": 794,
+    "time": 793,
+    "timeDay": 749,
+    "timeWeek": 801,
+    "timeMonth": 782,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2021-10-13": 23
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 822,
-    "timeDay": 691,
-    "timeWeek": 866,
+    "timeDay": 699,
+    "timeWeek": 823,
     "timeMonth": 904,
     "timeYear": 822,
     "dailyMinutesDown": {
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1097,
-    "timeDay": 691,
-    "timeWeek": 1304,
-    "timeMonth": 1211,
-    "timeYear": 1097,
+    "time": 1095,
+    "timeDay": 774,
+    "timeWeek": 1180,
+    "timeMonth": 1197,
+    "timeYear": 1095,
     "dailyMinutesDown": {
       "2021-11-04": 71,
       "2021-10-13": 22,
@@ -77,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 796,
-    "timeDay": 645,
-    "timeWeek": 823,
-    "timeMonth": 766,
+    "timeDay": 725,
+    "timeWeek": 786,
+    "timeMonth": 763,
     "timeYear": 796,
     "dailyMinutesDown": {
       "2021-07-22": 62
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 727,
-    "timeDay": 723,
-    "timeWeek": 787,
-    "timeMonth": 748,
+    "timeDay": 660,
+    "timeWeek": 756,
+    "timeMonth": 746,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2021-07-22": 62
@@ -111,19 +111,17 @@
     "icon": "https://favicons.githubusercontent.com/canesten.co.id",
     "slug": "canesten",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1201,
-    "timeDay": 1229,
-    "timeWeek": 1418,
-    "timeMonth": 1226,
-    "timeYear": 1201,
-    "dailyMinutesDown": {
-      "2021-12-07": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1198,
+    "timeDay": 1031,
+    "timeWeek": 1262,
+    "timeMonth": 1214,
+    "timeYear": 1198,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tonikum",
@@ -137,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 775,
-    "timeDay": 659,
-    "timeWeek": 789,
-    "timeMonth": 745,
+    "timeDay": 677,
+    "timeWeek": 744,
+    "timeMonth": 746,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2021-07-22": 62
@@ -157,9 +155,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
-    "timeDay": 660,
-    "timeWeek": 925,
-    "timeMonth": 832,
+    "timeDay": 737,
+    "timeWeek": 900,
+    "timeMonth": 831,
     "timeYear": 799,
     "dailyMinutesDown": {}
   },
@@ -180,7 +178,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-07": 424,
+      "2021-12-08": 68,
+      "2021-12-07": 1440,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
       "2021-12-04": 1440,
