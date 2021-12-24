@@ -90,10 +90,10 @@
     "url": "https://saridon.co.id",
     "icon": "https://favicons.githubusercontent.com/saridon.co.id",
     "slug": "saridon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 730,
@@ -102,6 +102,7 @@
     "timeMonth": 751,
     "timeYear": 730,
     "dailyMinutesDown": {
+      "2021-12-24": 1,
       "2021-07-22": 62
     }
   },
@@ -128,9 +129,9 @@
     "url": "https://tonikum.co.id",
     "icon": "https://favicons.githubusercontent.com/tonikum.co.id",
     "slug": "tonikum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -140,6 +141,7 @@
     "timeMonth": 745,
     "timeYear": 770,
     "dailyMinutesDown": {
+      "2021-12-24": 0,
       "2021-07-22": 62
     }
   },
@@ -178,7 +180,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-24": 67,
+      "2021-12-24": 1171,
       "2021-12-23": 1440,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
