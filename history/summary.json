@@ -4,11 +4,11 @@
     "url": "https://berocca.co.id",
     "icon": "https://favicons.githubusercontent.com/berocca.co.id",
     "slug": "berocca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 792,
     "timeDay": 975,
@@ -16,6 +16,7 @@
     "timeMonth": 796,
     "timeYear": 792,
     "dailyMinutesDown": {
+      "2022-02-12": 4,
       "2021-10-13": 23
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://bepanthen.co.id",
     "icon": "https://favicons.githubusercontent.com/bepanthen.co.id",
     "slug": "benpanthen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 838,
     "timeDay": 803,
@@ -36,6 +37,7 @@
     "timeMonth": 927,
     "timeYear": 838,
     "dailyMinutesDown": {
+      "2022-02-12": 3,
       "2021-10-13": 22,
       "2021-09-18": 19,
       "2021-07-22": 62
@@ -46,11 +48,11 @@
     "url": "https://zambuk.co.id",
     "icon": "https://favicons.githubusercontent.com/zambuk.co.id",
     "slug": "zambuk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 1113,
     "timeDay": 1210,
@@ -58,6 +60,7 @@
     "timeMonth": 1254,
     "timeYear": 1113,
     "dailyMinutesDown": {
+      "2022-02-12": 3,
       "2021-11-04": 71,
       "2021-10-13": 22,
       "2021-09-09": 20,
@@ -70,11 +73,11 @@
     "url": "https://cdr.co.id",
     "icon": "https://favicons.githubusercontent.com/cdr.co.id",
     "slug": "cdr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 833,
     "timeDay": 759,
@@ -82,6 +85,7 @@
     "timeMonth": 1084,
     "timeYear": 833,
     "dailyMinutesDown": {
+      "2022-02-12": 2,
       "2021-07-22": 62
     }
   },
@@ -90,10 +94,10 @@
     "url": "https://saridon.co.id",
     "icon": "https://favicons.githubusercontent.com/saridon.co.id",
     "slug": "saridon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 788,
@@ -102,6 +106,7 @@
     "timeMonth": 1138,
     "timeYear": 788,
     "dailyMinutesDown": {
+      "2022-02-12": 2,
       "2021-07-22": 62
     }
   },
@@ -110,10 +115,10 @@
     "url": "https://canesten.co.id",
     "icon": "https://favicons.githubusercontent.com/canesten.co.id",
     "slug": "canesten",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1174,
@@ -121,17 +126,19 @@
     "timeWeek": 1144,
     "timeMonth": 1105,
     "timeYear": 1174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 1
+    }
   },
   {
     "name": "Tonikum",
     "url": "https://tonikum.co.id",
     "icon": "https://favicons.githubusercontent.com/tonikum.co.id",
     "slug": "tonikum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 772,
@@ -140,6 +147,7 @@
     "timeMonth": 798,
     "timeYear": 772,
     "dailyMinutesDown": {
+      "2022-02-12": 1,
       "2021-07-22": 62
     }
   },
@@ -148,9 +156,9 @@
     "url": "https://redoxon.co.id",
     "icon": "https://favicons.githubusercontent.com/redoxon.co.id",
     "slug": "redoxon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +167,9 @@
     "timeWeek": 794,
     "timeMonth": 766,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   },
   {
     "name": "Clarityn",
@@ -178,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-12": 73,
+      "2022-02-12": 554,
       "2022-02-11": 1440,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
