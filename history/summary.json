@@ -135,9 +135,9 @@
     "url": "https://tonikum.co.id",
     "icon": "https://favicons.githubusercontent.com/tonikum.co.id",
     "slug": "tonikum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.93%",
@@ -147,6 +147,7 @@
     "timeMonth": 798,
     "timeYear": 773,
     "dailyMinutesDown": {
+      "2022-02-15": 0,
       "2022-02-12": 161,
       "2021-07-22": 62
     }
@@ -188,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-15": 77,
+      "2022-02-15": 213,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
