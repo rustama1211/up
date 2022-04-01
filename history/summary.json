@@ -158,10 +158,10 @@
     "url": "https://redoxon.co.id",
     "icon": "https://favicons.githubusercontent.com/redoxon.co.id",
     "slug": "redoxon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 794,
@@ -170,6 +170,7 @@
     "timeMonth": 822,
     "timeYear": 794,
     "dailyMinutesDown": {
+      "2022-04-01": 1,
       "2022-02-12": 161
     }
   },
@@ -190,7 +191,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-01": 111,
+      "2022-04-01": 814,
       "2022-03-31": 1440,
       "2022-03-30": 1440,
       "2022-03-29": 1440,
