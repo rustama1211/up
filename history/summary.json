@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 837,
-    "timeDay": 886,
-    "timeWeek": 955,
-    "timeMonth": 898,
-    "timeYear": 839,
+    "time": 838,
+    "timeDay": 1162,
+    "timeWeek": 935,
+    "timeMonth": 902,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2022-02-12": 164,
       "2021-10-13": 23
@@ -32,10 +32,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 899,
-    "timeDay": 1067,
-    "timeWeek": 859,
-    "timeMonth": 816,
-    "timeYear": 908,
+    "timeDay": 952,
+    "timeWeek": 829,
+    "timeMonth": 821,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2022-08-01": 23,
       "2022-02-12": 164,
@@ -54,11 +54,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
-    "time": 1226,
-    "timeDay": 1553,
-    "timeWeek": 1499,
-    "timeMonth": 1373,
-    "timeYear": 1245,
+    "time": 1227,
+    "timeDay": 1685,
+    "timeWeek": 1454,
+    "timeMonth": 1382,
+    "timeYear": 1248,
     "dailyMinutesDown": {
       "2022-08-01": 23,
       "2022-02-19": 23,
@@ -79,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 846,
-    "timeDay": 765,
-    "timeWeek": 770,
-    "timeMonth": 806,
-    "timeYear": 854,
+    "time": 847,
+    "timeDay": 1082,
+    "timeWeek": 789,
+    "timeMonth": 818,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2022-02-12": 163
     }
@@ -100,10 +100,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 823,
-    "timeDay": 1009,
-    "timeWeek": 849,
-    "timeMonth": 790,
-    "timeYear": 834,
+    "timeDay": 913,
+    "timeWeek": 836,
+    "timeMonth": 795,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2022-02-19": 22,
       "2022-02-12": 162
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1257,
-    "timeDay": 1457,
-    "timeWeek": 1468,
-    "timeMonth": 1496,
-    "timeYear": 1263,
+    "time": 1261,
+    "timeDay": 2593,
+    "timeWeek": 1587,
+    "timeMonth": 1525,
+    "timeYear": 1266,
     "dailyMinutesDown": {
       "2022-02-12": 162
     }
@@ -140,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 791,
-    "timeDay": 1002,
-    "timeWeek": 799,
-    "timeMonth": 783,
-    "timeYear": 793,
+    "time": 792,
+    "timeDay": 1183,
+    "timeWeek": 815,
+    "timeMonth": 796,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2022-02-12": 161
     }
@@ -155,16 +155,16 @@
     "icon": "https://favicons.githubusercontent.com/redoxon.co.id",
     "slug": "redoxon",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 818,
-    "timeDay": 766,
-    "timeWeek": 898,
-    "timeMonth": 873,
-    "timeYear": 816,
+    "timeDay": 1065,
+    "timeWeek": 885,
+    "timeMonth": 881,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2022-06-17": 18,
       "2022-04-01": 17,
@@ -188,7 +188,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-06": 121,
+      "2022-08-07": 130,
+      "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
@@ -551,8 +552,7 @@
       "2021-08-11": 1440,
       "2021-08-10": 1440,
       "2021-08-09": 1440,
-      "2021-08-08": 1440,
-      "2021-08-07": 1440
+      "2021-08-08": 1440
     }
   }
 ]
