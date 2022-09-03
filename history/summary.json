@@ -48,9 +48,9 @@
     "url": "https://zambuk.co.id",
     "icon": "https://favicons.githubusercontent.com/zambuk.co.id",
     "slug": "zambuk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -60,6 +60,7 @@
     "timeMonth": 1421,
     "timeYear": 1271,
     "dailyMinutesDown": {
+      "2022-09-03": 0,
       "2022-08-01": 23,
       "2022-02-19": 23,
       "2022-02-12": 163,
@@ -188,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-03": 149,
+      "2022-09-03": 350,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
