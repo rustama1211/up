@@ -16,5 +16,25 @@
     "timeMonth": 1698,
     "timeYear": 1698,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Broken Website",
+    "url": "https://status.joinfreehold.com",
+    "icon": "https://icons.duckduckgo.com/ip3/status.joinfreehold.com.ico",
+    "slug": "test-broken-website",
+    "status": "down",
+    "uptime": "13.39%",
+    "uptimeDay": "13.39%",
+    "uptimeWeek": "13.39%",
+    "uptimeMonth": "13.39%",
+    "uptimeYear": "13.39%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-09-11": 0
+    }
   }
 ]
