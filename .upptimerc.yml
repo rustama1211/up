@@ -6,6 +6,9 @@ sites:
   - name: Mitsubishi
     url: https://mitsubishimotorsid-mobileapp.com/app/login
     maxResponseTime: 5000
+  - name: Test Broken Website
+    url: https://status.joinfreehold.com
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
