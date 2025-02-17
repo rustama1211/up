@@ -1,7 +1,7 @@
 url: https://mitsubishimotorsid-mobileapp.com/app/login
-status: up
+status: degraded
 code: 200
-responseTime: 1558
-lastUpdated: 2025-02-17T16:56:13.104Z
+responseTime: 6869
+lastUpdated: 2025-02-17T17:00:41.596Z
 startTime: 2023-09-11T02:50:45.556Z
 generator: Upptime <https://github.com/upptime/upptime>
