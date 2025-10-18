@@ -14,8 +14,9 @@
     "timeDay": 1591,
     "timeWeek": 5101,
     "timeMonth": 3034,
-    "timeYear": 4382,
+    "timeYear": 4380,
     "dailyMinutesDown": {
+      "2025-10-18": 0,
       "2025-07-24": 80,
       "2025-07-23": 470,
       "2025-05-12": 153,
