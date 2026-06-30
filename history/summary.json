@@ -6,18 +6,19 @@
     "slug": "mitsubishi",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 3915,
-    "timeDay": 4487,
-    "timeWeek": 7089,
-    "timeMonth": 5406,
-    "timeYear": 3887,
+    "time": 3910,
+    "timeDay": 4786,
+    "timeWeek": 6983,
+    "timeMonth": 5403,
+    "timeYear": 3878,
     "dailyMinutesDown": {
       "2025-07-24": 80,
-      "2025-07-23": 470
+      "2025-07-23": 470,
+      "2026-06-30": 2
     }
   }
 ]
