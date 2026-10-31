@@ -6,7 +6,7 @@
     "slug": "mitsubishi",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.95%",
@@ -18,8 +18,7 @@
     "dailyMinutesDown": {
       "2026-07-17": 214,
       "2026-10-22": 24,
-      "2026-10-28": 49,
-      "2026-10-31": 0
+      "2026-10-28": 49
     }
   }
 ]
