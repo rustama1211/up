@@ -4,22 +4,21 @@
     "url": "https://mitsubishimotorsid-mobileapp.com/app/login",
     "icon": "https://icons.duckduckgo.com/ip3/mitsubishimotorsid-mobileapp.com.ico",
     "slug": "mitsubishi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.94%",
-    "time": 4802,
-    "timeDay": 11349,
-    "timeWeek": 11683,
-    "timeMonth": 7449,
-    "timeYear": 5004,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.95%",
+    "time": 4806,
+    "timeDay": 11802,
+    "timeWeek": 11703,
+    "timeMonth": 7368,
+    "timeYear": 5005,
     "dailyMinutesDown": {
       "2026-07-17": 214,
       "2026-10-22": 24,
-      "2026-10-28": 49,
-      "2026-10-30": 5
+      "2026-10-28": 49
     }
   }
 ]
